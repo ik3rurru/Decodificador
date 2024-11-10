@@ -6,7 +6,8 @@ Este script en PHP descodifica puntuaciones de un archivo CSV ficticio, donde ca
 
 Tener PHP instalado en el sistema. Puedes verificar la instalación ejecutando:
    ```bash
-   php -v 
+   php -v
+````
 
 ## Ejecución 
 
