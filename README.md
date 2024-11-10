@@ -4,7 +4,7 @@ Este script en PHP descodifica puntuaciones de un archivo CSV ficticio, donde ca
 
 ## Requisitos
 
-1. Tener PHP instalado en el sistema. Puedes verificar la instalación ejecutando:
+Tener PHP instalado en el sistema. Puedes verificar la instalación ejecutando:
    ```bash
    php -v 
 
